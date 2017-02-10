@@ -6,4 +6,8 @@ ignore:
     - '* > lynx@0.4.0':
         reason: None given
         expires: '2017-03-12T11:47:19.685Z'
+  SNYK-RUBY-LYNX-20161:
+    - '* > lynx@0.4.0':
+        reason: None given
+        expires: '2017-03-12T11:48:21.251Z'
 patch: {}
